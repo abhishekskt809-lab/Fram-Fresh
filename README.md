@@ -1,1 +1,2 @@
 # Fram-Fresh
+Fresh Farm is a web-based agriculture platform designed to support farmers through technology-driven solutions. The project integrates a direct farmer-to-consumer marketplace, AI-based crop disease detection, and easy access to government schemes in a single system. Built using HTML, CSS, JavaScript, and backend technologies, the platform aims to improve transparency, reduce crop losses, and enhance agricultural decision-making. This repository contains the complete source code, UI implementation, and system logic for the Fresh Farm project.
